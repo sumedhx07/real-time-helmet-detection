@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# YOLO training outputs
+runs/
+
+# Violation images
+violations/
+
+# Dataset
+helmet_dataset/
+
+# Large model files
+*.pt
